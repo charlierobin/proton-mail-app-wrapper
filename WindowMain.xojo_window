@@ -144,6 +144,8 @@ End
 		    
 		    DockBadge.clear()
 		    
+		    self.count = 0
+		    
 		  end if
 		  
 		End Sub
