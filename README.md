@@ -26,6 +26,7 @@ I wanted to be able to have multiple Proton Mail and GMail accounts as icons in 
 
 <img width="171" alt="Screenshot 2023-09-18 at 13 24 30" src="https://github.com/charlierobin/proton-mail-app-wrapper/assets/10506323/252947e7-907f-4cc0-83af-938b26cbe87e">
 
+
 There's more detailed information about all of this at https://github.com/charlierobin/google-mail-wrapper, which is another slightly different version of the app I built to handle GMail accounts.
 
 [Download universal binary (Intel and ARM)](https://dl.dropboxusercontent.com/s/g05jtdmdzspl6o0/ProtonMail.zip?dl=0) for those who can’t be bothered to compile their own version from scratch.
