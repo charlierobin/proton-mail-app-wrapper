@@ -20,5 +20,9 @@ If there are no unread messages, the dock icon is cleared.
 
 All in all: very very simple. But sometimes it’s the simple things in life that make me happy…
 
+I created this app because I wanted to work with Proton Mail separately from my usual web browser (because I'm frequently clearing cookies/web data etc, and it was getting to be a real pain constantly reauthenticating). I also wanted to be able to have a separate app for each Proton Mail account.
+
+There's more detailed information about all of this at https://github.com/charlierobin/google-mail-wrapper, which is another slightly different version of the app I built to handle GMail accounts.
+
 [Download universal binary (Intel and ARM)](https://dl.dropboxusercontent.com/s/g05jtdmdzspl6o0/ProtonMail.zip?dl=0) for those who can’t be bothered to compile their own version from scratch.
 
