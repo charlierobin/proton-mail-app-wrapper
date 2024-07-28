@@ -1,8 +1,8 @@
 # proton mail app wrapper
 
-## Regrettably, I've just noticed that of some point in JUly 2024, Proton have changed things so that their site is no longer loading (although it still seems happy enough in my Catalina version of Safari).
+## Regrettably, I've just noticed that of some point in July 2024, Proton have changed things so that their site no longer loads (although it still seems happy enough in my Catalina version of Safari).
 
-I've tried fiddling with various user agent signatures in an attempt to fool it into working, but so far no luck.
+I've tried quickly fiddling with various user agent signatures in an attempt to fool it into working, but so far no luck.
 
 So at the moment, this is all useless. Which is a shame, as I used to use it a lot, but I just don't have the time to look into it further.
 
