@@ -6,6 +6,8 @@ I've tried quickly fiddling with various user agent signatures in an attempt to 
 
 So at the moment, this is all useless. Which is a shame, as I used to use it a lot, but I just don't have the time to look into it further.
 
+https://proton.me/mail/download
+
 ## —————
  
 Basically just a web view in a window, with the URL set to:
